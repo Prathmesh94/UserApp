@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "220463922594",
+    "firebase_url": "https://noticeapp-fc658.firebaseio.com",
+    "project_id": "noticeapp-fc658",
+    "storage_bucket": "noticeapp-fc658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220463922594:android:9edd897db3e5587d8146fb",
+        "android_client_info": {
+          "package_name": "com.shr.collegeuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220463922594-tf529pccdss4ou8m96gbc766jbldoqni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArw7JioLlHj_D43F2UJJn1QThj-g8xWis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220463922594-tf529pccdss4ou8m96gbc766jbldoqni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220463922594:android:b9324c69ad9677d98146fb",
+        "android_client_info": {
+          "package_name": "com.shr.noticeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220463922594-gvlt19tv5dgbpe6e64gjo7guvgbtp3mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shr.noticeapp",
+            "certificate_hash": "1539a1ba38a8bfdc3a5c92625530a1e501741b87"
+          }
+        },
+        {
+          "client_id": "220463922594-tf529pccdss4ou8m96gbc766jbldoqni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArw7JioLlHj_D43F2UJJn1QThj-g8xWis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220463922594-tf529pccdss4ou8m96gbc766jbldoqni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
